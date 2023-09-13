@@ -1,0 +1,5 @@
+python-boto3 (100:1.28.46-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/boto3/releases/tag/1.28.46
+
+ -- Prasanthi Kanneganti <pkanneganti4e@pantarei-design.com>  Wed, 13 Sep 2023 15:32:35 +0800
