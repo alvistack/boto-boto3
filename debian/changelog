@@ -1,0 +1,9 @@
+python-boto3 (100:1.28.50-1) UNRELEASED; urgency=medium
+
+  [ Wong Hoi Sing Edison ]
+  * https://github.com/boto/boto3/releases/tag/1.28.50
+
+  [ Prasanthi Kanneganti ]
+  * 
+
+ -- Prasanthi Kanneganti <pkanneganti4e@pantarei-design.com>  Wed, 20 Sep 2023 10:03:20 +0800
