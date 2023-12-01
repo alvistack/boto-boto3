@@ -16,7 +16,7 @@
 
 Name: python-boto3
 Epoch: 100
-Version: 1.33.4
+Version: 1.33.5
 Release: 1%{?dist}
 BuildArch: noarch
 Summary: AWS SDK for Python
@@ -51,7 +51,7 @@ fdupes -qnrps %{buildroot}%{python3_sitelib}
 %package -n python%{python3_version_nodots}-boto3
 Summary: AWS SDK for Python
 Requires: python3
-Requires: python3-botocore >= 1.33.4
+Requires: python3-botocore >= 1.33.5
 Requires: python3-jmespath >= 0.7.1
 Requires: python3-s3transfer >= 0.8.0
 Provides: python3-boto3 = %{epoch}:%{version}-%{release}
@@ -75,7 +75,7 @@ use of services like Amazon S3 and Amazon EC2.
 %package -n python3-boto3
 Summary: AWS SDK for Python
 Requires: python3
-Requires: python3-botocore >= 1.33.4
+Requires: python3-botocore >= 1.33.5
 Requires: python3-jmespath >= 0.7.1
 Requires: python3-s3transfer >= 0.8.0
 Provides: python3-boto3 = %{epoch}:%{version}-%{release}

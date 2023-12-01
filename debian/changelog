@@ -1,5 +1,5 @@
-python-boto3 (100:1.33.4-1) UNRELEASED; urgency=medium
+python-boto3 (100:1.33.5-1) UNRELEASED; urgency=medium
 
-  * https://github.com/boto/boto3/releases/tag/1.33.4
+  * https://github.com/boto/boto3/releases/tag/1.33.5
 
- -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 30 Nov 2023 17:17:21 +0800
+ -- Chau Wan Ying Fifi <wychau6b@pantarei-design.com>  Fri, 01 Dec 2023 16:29:31 +0800
