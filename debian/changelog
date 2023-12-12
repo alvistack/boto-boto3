@@ -1,0 +1,5 @@
+python-boto3 (100:1.33.12-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/boto3/releases/tag/1.33.12
+
+ -- Chau Wan Ying Fifi <wychau6b@pantarei-design.com>  Tue, 12 Dec 2023 22:34:17 +0800
