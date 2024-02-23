@@ -33,3 +33,4 @@ docs/source/.vs
 .doctrees
 
 source/_build
+.pybuild/
