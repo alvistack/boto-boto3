@@ -1,0 +1,5 @@
+python-boto3 (100:1.34.158-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/boto3/releases/tag/1.34.158
+
+ -- root <root@a722e33948b6>  Sat, 10 Aug 2024 10:58:00 +0000
