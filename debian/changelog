@@ -1,0 +1,5 @@
+python-boto3 (100:1.42.35-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/boto3/releases/tag/1.42.35
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 27 Jan 2026 09:59:18 +0800
