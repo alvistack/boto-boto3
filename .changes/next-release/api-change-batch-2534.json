@@ -1,5 +1,0 @@
-{
-  "type": "api-change",
-  "category": "``batch``",
-  "description": "[``botocore``] Doc Update, Add note that UpdatePolicy applies only to EC2 managed compute environments"
-}
