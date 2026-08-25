@@ -1,0 +1,5 @@
+{
+  "type": "api-change",
+  "category": "``devops-agent``",
+  "description": "[``botocore``] Adds the UpdateApprovalAction API for resolving agent action approvals in AWS DevOps Agent agent spaces."
+}
