@@ -1,0 +1,5 @@
+{
+  "type": "api-change",
+  "category": "``agent-registry``",
+  "description": "[``botocore``] Release HTTP and AGUI descriptors to the dataplane model"
+}
