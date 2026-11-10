@@ -1,0 +1,5 @@
+python-boto3 source: file-without-copyright-information
+python-boto3 source: no-debian-changes
+python-boto3 source: source-contains-prebuilt-windows-binary
+python-boto3 source: source-is-missing
+python-boto3 source: source-package-encodes-python-version
